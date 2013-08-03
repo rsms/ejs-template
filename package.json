@@ -1,0 +1,12 @@
+{
+  "name": "ejs-template",
+  "version": "0.1.0",
+  "description": "Nodejs EJS file-based templating",
+  "keywords": ["template", "ejs", "middleware", "connect"],
+  "repository": {"type": "git", "url": "git://github.com/rsms/ejs-template.git" },
+  "author": {"name": "Rasmus Andersson", "url": "http://rsms.me/"},
+  "dependencies": {},
+  "main": "index",
+  "engines": {"node": ">= 0.8.0"},
+  "readmeFilename": "README.md"
+}
