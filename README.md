@@ -41,7 +41,7 @@ Example:
 
 ```js
 var connect = require('connect');
-var template = require('template');
+var template = require('ejs-template');
 connect()
   .use(template.middleware({basedir: __dirname+'/public'}))
   .use(function (req, res, next) {
